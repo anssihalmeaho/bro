@@ -1,0 +1,3 @@
+[submodule "imported"]
+	path = imported
+	url = https://github.com/anssihalmeaho/mbox.git
